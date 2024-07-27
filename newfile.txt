@@ -1,0 +1,2 @@
+Created a new file inside pracitce2 but we're also inside newly created branch
+This file will be visible only in new branch not in main branch unless we're merging!
