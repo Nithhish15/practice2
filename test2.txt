@@ -1,2 +1,0 @@
-This is new text file added via git hub!
-move to local

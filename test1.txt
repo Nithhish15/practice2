@@ -1,7 +1,0 @@
-This is test1 file newly created!
-<<<<<<< HEAD
-this is another editied
-=======
-This is edited!
->>>>>>> c906d71ad10cf1af37f83ecb4fd2de8af9ca0971
-vdokc
